@@ -11,8 +11,8 @@ static/
 /dist
 /transaction_imports
 
-pyproject.toml
 poetry.lock
 .vscode
 
 .coverage
+.python-version
